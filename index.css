@@ -1,0 +1,178 @@
+body{
+    background-color: black;
+}
+
+    
+
+
+#my-nav{
+    background-color:#000000;
+    height: 100px;
+    padding-top: 25px;
+    
+}
+.logoimg {
+    margin-right: auto;
+    width: 150px; 
+    height: auto; 
+  }
+
+
+
+.main {
+    background-color: rgb(3, 11, 48,1);
+    height: 400px;
+    margin: 10px 100px;
+    display: flex;             
+    align-items: center;       
+    justify-content: space-between; 
+    padding: 20px;             
+}
+
+.exo-img {
+    flex: 1;                  
+    max-width: 50%;           
+}
+
+.intro {
+    flex: 1;                  
+    color: white;
+    font-family: 'Inria Sans', sans-serif;
+    margin-left: 100px;         
+}
+
+/*.para1 {
+    font-size: 1.1rem;
+    line-height: 1.6;
+}*/
+.heading-2{
+    font-family:Inria Sans  ;
+    color: white;
+    margin-left: 400px
+    
+    
+}
+.subheading-1{
+
+    margin-left: 200px;
+}
+.elep{margin-top: 100px;
+    margin-bottom: 100px;
+    
+    font-family:Inria Sans  ;
+    color: white;
+
+
+
+}
+.para1 {
+    font-size: 1.25rem; 
+    line-height: 1.6; 
+    color: #e0e0e0;
+    margin: 0 auto; 
+    max-width: 800px; }
+.cards1{
+    margin-top: 30px;
+    margin-left: 100px;
+    padding-top: 30px;
+    
+}
+.card{
+    background-color: black;
+    border-color: white;
+}
+.TRAPPIST-1d{
+    height: 300px;
+}
+.card-2{
+    margin-left:100px;
+    margin-top:50px;
+    padding-bottom:30px;
+}
+.card-area{
+    background-color: rgb(3, 11, 48,1);
+    margin-left: 70px;
+    margin-right: 70px;
+}
+.gravity{
+    background-color: rgb(3, 11, 48,1);
+
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.g-content{
+    margin-top: 60px;
+    font-family: Inria Sans;
+    font-size: large;
+    color: white;
+}
+p{
+    font-family: Inria Sans;
+    color: white;
+
+}
+.kids-mode{
+    margin-top: 50px;
+    background-color: rgb(3, 11, 48,1);
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+.kidmodeimg{
+    width: 500px;
+    height: 350px;
+}
+.kidscontent{
+    margin-top: 60px;
+    color:white;
+    
+}
+.kidsheading{
+    margin-left: 150px;
+}
+.kidpara{
+    font-size: larger;
+}
+.title{
+    color:aqua;
+}
+.button-view{
+    border-color: white;
+}
+.nav-link{
+    color: white;
+}
+.our-goal{
+    margin-top: 70px;
+    margin-left: 60px;
+    margin-right: 100px;
+    padding-top: 40px;
+    
+}
+.ourgoal{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 30px;
+    padding-bottom: 40px;
+}
+.space-image{
+    background-color:rgb(3, 11, 48,1) ;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 80px;
+}
+.space-quotes{
+    font-family: Poppins;
+    margin-left: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    color: white;
+}
+.space-quotes-one{
+    margin-left:250px;
+    
+}
+.space-quotes-two{
+    margin-left:350px
+}
