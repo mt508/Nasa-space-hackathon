@@ -27,8 +27,7 @@ body{
     align-items: center;       
     justify-content: space-between; 
     padding: 20px; 
-  border-radius: 25px;            
-
+    border-radius: 25px;            
 }
 
 .exo-img {
@@ -41,7 +40,7 @@ body{
     color: white;
     font-family: 'Inria Sans', sans-serif;
     margin-left: 150px;       
-    margin-right: 70px;       
+    margin-right: 70px;  
 }
 
 /*.para1 {
@@ -96,6 +95,7 @@ body{
     background-color: rgb(3, 11, 48,1);
     margin-left: 70px;
     margin-right: 70px;
+    border-radius: 25px;
 }
 .gravity{
     background-color: rgb(3, 11, 48,1);
@@ -103,6 +103,7 @@ body{
     margin-top: 50px;
     margin-left: 100px;
     margin-right: 100px;
+    border-radius: 25px;
 }
 .g-content{
     margin-top: 60px;
@@ -120,6 +121,7 @@ p{
     background-color: rgb(3, 11, 48,1);
     margin-left: 100px;
     margin-right: 100px;
+    border-radius: 25px;
     
 }
 .kidmodeimg{
@@ -164,6 +166,7 @@ p{
     margin-left: 70px;
     margin-right: 70px;
     margin-top: 80px;
+    border-radius: 25px;
 }
 .space-quotes{
     font-family: Poppins;
@@ -179,3 +182,4 @@ p{
 .space-quotes-two{
     margin-left:350px
 }
+
