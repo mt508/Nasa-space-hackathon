@@ -1,0 +1,94 @@
+body{
+    background-color: black;
+}
+.nav-link{
+    color: white;
+    padding-top: 0;
+
+}
+.logoimg {
+    margin-right: auto;
+    width: 150px; 
+    height: auto; 
+  }
+    
+
+
+#my-nav{
+    background-color:#000000;
+    height: 10px;
+    padding-top: 25px;
+    
+}
+.gravity-layout{
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 25px;
+    border: 1px solid white;
+
+}
+.gravity-content{
+    color: white;
+    margin-right: 30px;
+}
+.exo-para{
+    margin-top: 30px;
+    font-size: large;
+}
+.gravity-image{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.gravity-pic{
+    margin-top: 100px;
+    margin-right: 100;
+    margin-left:500px ;
+    width: 300px;
+    height:300px ;
+}
+.gravity-quotes{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.qoute-one{
+    margin-left: 300px;
+}
+.qoute-oneb{
+    margin-left:150px;
+}
+.input-user{
+    margin-top: 80px;
+    margin-left: 100px;
+    margin-right: 100px;
+    color: white;
+    border-radius: 25px;
+    border: 1px solid white;
+}
+.beginning{
+    margin-top: 150px;
+
+    margin-left: 100px;
+    margin-right: 100px;
+    color: white;
+}
+.qoute-onec{
+    margin-left: 100px;
+}
+.qoute-oned{
+    margin-left: 230px;
+}
+.choose{
+    margin-top: 25px;
+}
+.input-image{
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.dropdown-item{
+    color: white;
+}
