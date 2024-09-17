@@ -28,7 +28,7 @@ body{
     justify-content: space-between; 
     padding: 20px; 
     border-radius: 25px; 
-    border: 2px solid white;
+    border: 1px solid white;
                
 }
 
@@ -107,7 +107,7 @@ body{
     margin-left: 100px;
     margin-right: 100px;
     border-radius: 25px;
-    border: 2px solid white
+    border: 1px solid white
 }
 .g-content{
     margin-top: 60px;
@@ -126,7 +126,7 @@ p{
     margin-left: 100px;
     margin-right: 100px;
     border-radius: 25px;
-    border: 2px solid white
+    border: 1px solid white
     
 }
 .kidmodeimg{
