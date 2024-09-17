@@ -1,0 +1,99 @@
+body{
+    background-color: black;
+    font-family: Inria Sans;
+}
+.nav-link{
+    color: white;
+    padding-top: 0;
+
+}
+.logoimg {
+    margin-right: auto;
+    width: 150px; 
+    height: auto; 
+  }
+    
+
+
+#my-nav{
+    background-color:#000000;
+    height: 10px;
+    padding-top: 25px;
+    
+}
+.kidsmode{
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 25px;
+    border: 1px solid white;
+}
+.school-intro{
+    color: white;
+}
+.kids-image{
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.game-image{
+    width:300px;
+    height: 300px;
+}
+.kids-img{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 200px;
+}
+.kids-quotes{
+    color: white;
+    margin-top: 60px;
+    margin-left: 30px;
+    
+}
+.intro-para{
+    margin-right: 20px;
+}
+.quiz-one{
+    color: white;
+}
+.quiz{
+    margin-top: 200px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 25px;
+    padding-bottom: 20px;
+    border: 1px solid white;
+}
+.quiz-img{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.quiz-one-b{
+    margin-right: 10px;
+}
+.game{
+    margin-top: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    color: white;
+    border-radius: 25px;
+    border: 1px solid white;
+
+}
+.my-img{
+    width:500px;
+    height: 300px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+
+}
+.game-one{
+    margin-top: 50px;
+}
+.game-two{
+    margin-right: 30px;
+}
